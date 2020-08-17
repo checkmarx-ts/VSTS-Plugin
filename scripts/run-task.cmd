@@ -33,7 +33,7 @@ set ENDPOINT_AUTH_PARAMETER_endpointIdSCA_USERNAME=MajdM
 set ENDPOINT_AUTH_PARAMETER_endpointIdSCA_PASSWORD=Plugins1!
 set ENDPOINT_AUTH_SCHEME_endpointIdSCA=UsernamePassword
 set INPUT_DEPENDENCYACCESSCONTROLURL=https://platform.checkmarx.net
-set INPUT_DEPENDENCYWEBAPPURL=https://sca.scacheckmarx.com
+set INPUT_DEPENDENCYWEBAPPURL=https://sca.scacheckmarx.com/
 set INPUT_DEPENDENCYTENANT=plugins
 set Endpoint
 node target\index.js
