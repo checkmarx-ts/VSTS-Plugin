@@ -12,7 +12,11 @@
     // "declarationMap": true,                /* Generates a sourcemap for each corresponding '.d.ts' file. */
     "sourceMap": true,                     /* Generates corresponding '.map' file. */
     // "outFile": "./",                       /* Concatenate and emit output to single file. */
+<<<<<<< HEAD:CxScan/CxScanV19/tsconfig.json
+    "outDir": "../CxScanV19/target",                        /* Redirect output structure to the directory. */
+=======
     "outDir": "../CxScanV20/target",                        /* Redirect output structure to the directory. */
+>>>>>>> 795813c62c94c0825c35782f183b2c65eb219598:CxScan/CxScanV20/tsconfig.json
     // "rootDir": "./",                       /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
     // "composite": true,                     /* Enable project compilation */
     // "tsBuildInfoFile": "./",               /* Specify file to store incremental compilation information */
